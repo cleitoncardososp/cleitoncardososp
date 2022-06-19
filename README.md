@@ -1,7 +1,7 @@
 ### Olá eu sou o Cleiton Cardoso 👋
 
 Desenvolvedor Backend C# Jr.<br>
-Mais de um ano atuando na NTT Data, atuando principalmente com Web API em .Net Core.
+Mais de um ano de experiência na NTT Data, atuando principalmente com Web API em .Net Core.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiton-cardoso/)
 
