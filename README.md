@@ -1,4 +1,4 @@
-### Olá, eu sou o Cleiton Cardoso 👋
+### Olá! Eu sou o Cleiton, sejam bem vindos!!! 🖐️
 
 Desenvolvedor Backend C# Jr.<br>
 Mais de um ano de experiência na NTT Data, atuando principalmente com Web API em .Net Core.
@@ -12,12 +12,13 @@ Mais de um ano de experiência na NTT Data, atuando principalmente com Web API e
     <img alt="BOOTSTRAP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
     <img alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
     <img alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-    
+    <img alt="MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+    <img alt="SqlServer" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+        
 </div>
 
 ### Estudando no momento:
 <ul>
     <li>Entity Framework Core</li>
-    <li>Microsoft Identity</li>
     <li>Json Web Token</li>
 </ul>
