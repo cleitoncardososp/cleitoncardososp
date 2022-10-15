@@ -14,7 +14,7 @@ Mais de um ano de experiência na NTT Data, atuando principalmente com Web API e
     <img alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
     <img alt="MySQL" height="49" width="49" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
     <img alt="SqlServer" height="49" width="49" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-    <img alt="SqlServer" height="49" width="49" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
+    <img alt="SqlServer" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
 </div>
 
 ### Estudando no momento:
